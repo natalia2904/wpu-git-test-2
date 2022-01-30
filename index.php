@@ -7,6 +7,8 @@
     <title>Coba Git Remote</title>
 </head>
 <body>
-    <h1>Hello World!</h1>
+    <h1>Hello World!
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita neque sequi, ducimus delectus voluptatem corporis laudantium eius natus minus exercitationem vitae possimus libero esse. Aperiam, nostrum. Tenetur in at cupiditate.</p>
+    </h1>
 </body>
 </html>
